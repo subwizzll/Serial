@@ -10,6 +10,6 @@
 '  -S , --scaling   Scaling between vectors, 0.1 = 10 percent.
 
 
-SHELL "python.exe c:/Users/Jared/Desktop/VCarvePro/ShopbotApps/Serial/serial.py -x 0.0 -y -0.0 -z .736 -a 0 -s .1 -S .1",0,ASYNC
+SHELL "python.exe c:/Users/Jared/Desktop/VCarvePro/ShopbotApps/Serial/serial.py -x 36.0 -y 36. -z .736 -a 180 -s .1 -S .1",0,ASYNC
 PAUSE 20
 FP,c:/Users/Jared/Desktop/VCarvePro/ShopbotApps/Serial/test.sbp,,,,,0,,0,0
